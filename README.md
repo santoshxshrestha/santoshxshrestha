@@ -1,88 +1,199 @@
 # 👋 Hi, I'm Santosh Shrestha
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Systems+Programmer;Linux+Enthusiast;Web+Developer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Enthusiast" alt="Typing SVG" />
+  
+  [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-purple?style=for-the-badge&logo=github)](https://github.com/SantoshShrestha11/dotfiles)
 </div>
 
-## 🚀 About Me
-I'm a CSIT student passionate about **Linux, low-level programming, and web development**. My development environment:
-- **Editor:** ![Neovim](https://img.shields.io/badge/Editor-Neovim-blue?style=flat&logo=neovim&logoColor=white)
-- **OS:** ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat&logo=arch-linux&logoColor=white)
-- **WM:** ![Hyprland](https://img.shields.io/badge/WM-Hyprland-purple?style=flat)
-- **Shell:** ![Fish](https://img.shields.io/badge/Shell-Fish-orange?style=flat&logo=fish&logoColor=white)
+## 🚀 Development Environment
+```mermaid
+mindmap
+  root((My Setup))
+    Shell
+      ZSH
+      Starship
+    Terminal
+      Alacritty
+      tmux + tmuxifier
+    Editor
+      Neovim
+        90% Proficiency
+        Custom Config
+    OS
+      Arch Linux
+        Hyprland WM
+        Keyboard-Driven
+```
 
-## 💻 Tech Stack
+## 💻 Tech Journey
+```rust
+/// Current Status: Exploring Systems Programming
+struct TechStack {
+    primary_langs: ["Rust 🦀", "C"],
+    web_stack: ["HTML", "CSS", "JavaScript(Learning)"],
+    tools: ["Git", "Docker(Soon)", "NixOS(Exploring)"],
+    editor: "Neovim + Custom Plugins",
+}
+```
+
+## 🎯 Current Focus
+<div align="center">
+  
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
+
 ```text
-Languages & Tools I work with:
+📚 Learning Progress
 ════════════════════════════════════
-C           █████████░░░░░  65%
-Python      ████████░░░░░░  55%
-Rust        ███████░░░░░░░  45%
-HTML/CSS    ██████████░░░░  75%
-JavaScript  ████░░░░░░░░░░  25%
-Neovim      ████████████░░  90%
-Linux       ███████████░░░  85%
+Rust Book      ████████████  Completed
+C Programming  ████████░░░░  File Handling
+Web Dev        ██████░░░░░░  HTML/CSS
+Docker         ██░░░░░░░░░░  Starting Soon
+NixOS          ███░░░░░░░░░  Exploring
 ```
 
-## 🔥 Interests
-- 🖥️ **Systems Programming**: Developing in C and Rust
-  ```rust
-  fn main() {
-      println!("Learning systems programming!");
-  }
+## ⚡ Workflow Highlights
+- **Terminal Setup**: Alacritty + Zsh + Starship + tmux
+- **Productivity**: 
+  ```shell
+  # Daily tmuxifier session
+  tmuxifier load-session getting-rusty
   ```
-- 🛠️ **Linux Customization**: Dotfiles management and workflow optimization
-- 🌐 **Web Development**: Building responsive and accessible websites
-- 📖 **Self-Improvement**: Daily learning and productivity optimization
+- **Browser**: Vim keybindings for keyboard-driven navigation
+- **Version Control**: Git integrated into daily workflow
 
-## 📚 Currently Learning
-<div align="center">
-  
-[![Learning](https://skillicons.dev/icons?i=c,rust,html,css,linux,vim)](https://skillicons.dev)
-
-</div>
-
-- 📌 **Advanced C**: System calls, memory management, networking
-- ⚙️ **Rust Ecosystem**: Building robust and safe applications
-- 🌎 **Web Development**: Core fundamentals before frameworks
-- 🏗️ **NixOS**: Declarative system configuration
-
-## 💼 Coding Activity
+## 🔧 Projects & Contributions
 ```text
-🌅 Morning    ████████░░░░  45%
-🌞 Daytime    ██████████░░  65%
-🌚 Evening    ███████░░░░░  40%
-🌙 Night      ██░░░░░░░░░░  15%
-
-💻 IDE Time:  6-8 hours/day
-📝 Projects:  4 active
-🎯 Commits:   Daily streaks
+Current Focus:
+════════════════════════════════════
+🦀 Rust Projects
+📁 Dotfiles Maintenance
+🌐 Web Development Foundations
+🐧 Linux System Customization
 ```
 
-## 🤝 Let's Connect
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-SantoshShrestha11-black?style=for-the-badge&logo=github)](https://github.com/SantoshShrestha11)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:santoshshresthasantoshshrestha@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantoshShrestha11&show_icons=true&theme=aura)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshShrestha11&layout=compact&theme=aura)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantoshShrestha11&theme=aura)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantoshShrestha11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## ⚡ Fun Facts
-- Use `tmuxifier` with session `getting rusty` for Rust development
-- Daily Arch Linux user (btw 😉)
-- Active lifestyle: Walking to college daily
-- Daily journaling enthusiast
-
+## 🤝 Connect With Me
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantoshShrestha11&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshShrestha11&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantoshShrestha11&theme=tokyonight)
-  
-![Profile Views](https://komarev.com/ghpvc/?username=SantoshShrestha11&color=blueviolet)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/SantoshShrestha11)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:santoshshresthasantoshshrestha@gmail.com)
 
 </div>
 
 ---
 <div align="center">
-  <i>Happy coding! Keep learning, keep growing! 🚀</i>
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+the+future+one+commit+at+a+time.;%F0%9F%A6%80+Embracing+the+Rust+journey)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SantoshShrestha11&color=blueviolet)
+</div># 👋 Hi, I'm Santosh Shrestha
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Enthusiast;Rust+Developer;System+Programmer" alt="Typing SVG" />
+</div>
+
+## 🛠️ Development Arsenal
+```mermaid
+graph TD
+    A[Development Setup] --> B[Terminal]
+    A --> C[Editor]
+    A --> D[Tools]
+    B --> E[Alacritty]
+    B --> F[Zsh + Starship]
+    B --> G[Tmux + Tmuxifier]
+    C --> H[Neovim]
+    H --> I[Core Plugins]
+    I --> J[Neo-tree]
+    I --> K[Telescope]
+    I --> L[vim-tmux-navigator]
+    I --> M[vim-fugitive]
+    I --> N[vim-sleuth]
+    I --> O[vim-rhubarb]
+    D --> P[LazyGit]
+    D --> Q[Git]
+    style H fill:#6A5ACD
+    style E fill:#FF6B6B
+    style F fill:#4ECDC4
+```
+
+## 💻 Daily Driver
+```lua
+-- Current Setup Configuration
+local setup = {
+    terminal = "Alacritty",
+    shell = "Zsh + Starship",
+    editor = "Neovim",
+    os = "Arch Linux + Hyprland",
+    workflow = {
+        navigation = "tmux-navigator",
+        file_explorer = "neo-tree",
+        fuzzy_finder = "telescope",
+        git_client = "lazygit",
+        git_integration = {"fugitive", "rhubarb"}
+    }
+}
+```
+
+## 🎯 Focus Areas
+<div align="center">
+  
+![](https://raw.githubusercontent.com/SantoshShrestha11/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SantoshShrestha11/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+</div>
+
+```rust
+// Current Learning Path
+struct LearningJourney {
+    primary: ["Rust 🦀", "Systems Programming in C"],
+    tools: ["Neovim Configuration", "Terminal Workflow"],
+    upcoming: ["Docker", "NixOS"],
+    web: ["HTML", "CSS", "JavaScript"],
+}
+```
+
+## ⚡ Workflow Snapshot
+```bash
+# My typical dev session
+tmux new-session -s dev
+├── nvim src/        # Code editing with Neovim
+├── lazygit         # Git operations
+└── cargo watch -x run  # Rust development
+```
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantoshShrestha11&theme=tokyonight)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantoshShrestha11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 🔧 Tech Stack Progress
+```text
+Tool Proficiency:
+════════════════════════════════════
+Neovim      ██████████░░  90%
+Tmux        ████████░░░░  75%
+Rust        ███████░░░░░  65%
+Git         ████████░░░░  80%
+Terminal    █████████░░░  85%
+```
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SantoshShrestha11&color=blueviolet)
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Mastering+the+tools+of+the+trade;One+keystroke+at+a+time+⌨️)
 </div>
