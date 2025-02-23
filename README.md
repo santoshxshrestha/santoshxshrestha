@@ -6,6 +6,7 @@
 I'm a CSIT student passionate about **Linux, low-level programming, and web development**. I primarily work with **C, Python, Rust, HTML, and CSS**. I use **Neovim** as my editor of choice and run **Arch Linux with Hyprland** as my daily driver.
 
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-blue?style=flat&logo=neovim) ![OS](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat&logo=arch-linux)
+![Languages](https://skillicons.dev/icons?i=c,python,rust,html,css,js,bash)
 
 ## 🔥 Interests
 - 🖥️ Systems programming (**C, Rust**)
@@ -39,7 +40,17 @@ I'm open to collaborating on:
 ---
 _This profile is always evolving, just like my tech journey!_
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantoshShrestha11&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshShrestha11&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantoshShrestha11&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantoshShrestha11&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshShrestha11&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SantoshShrestha11&theme=radical&column=7" alt="GitHub Trophies" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SantoshShrestha11&color=blue)
