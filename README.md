@@ -24,8 +24,8 @@ I'm open to collaborating on:
 
 ## 📫 How to Reach Me
 - **GitHub:** [@SantoshShrestha11](https://github.com/SantoshShrestha11)
-- **Email:** [santoshsantoshsthastha.com](mailto:santoshsantoshsthastha.com)
-- **Email:** [santoshshresthasantoshshrestha.com](mailto:santoshshresthasantoshshrestha.com)
+- **Email:** [santoshsantoshsthastha@gmail.com](mailto:santoshsantoshsthastha@gmail.com)
+- **Email:** [santoshshresthasantoshshrestha@gmail.com](mailto:santoshshresthasantoshshrestha.@gmail.com)
 
 ## ⚡ Fun Facts
 - I use **tmuxifier** with a session named `getting rusty` for Rust development.
