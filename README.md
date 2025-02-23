@@ -51,6 +51,8 @@ struct TechStack {
 Rust Book      ████████████  Completed
 C Programming  ████████░░░░  File Handling
 Web Dev        ██████░░░░░░  HTML/CSS
+Python         █████████░░░  30%
+Django         ██░░░░░░░░░░  14%
 Docker         ██░░░░░░░░░░  Starting Soon
 NixOS          ███░░░░░░░░░  Exploring
 ```
@@ -184,8 +186,8 @@ tmux new-session -s dev
 ```text
 Tool Proficiency:
 ════════════════════════════════════
+Tmux        ████████████  98%
 Neovim      ██████████░░  90%
-Tmux        ████████░░░░  75%
 Rust        ███████░░░░░  65%
 Git         ████████░░░░  80%
 Terminal    █████████░░░  85%
