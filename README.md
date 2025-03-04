@@ -55,7 +55,7 @@ struct TechStack {
 ════════════════════════════════════
 Rust           ██████░░░░░░  49%
 C Programming  ████████░░░░  62%
-Web Dev        ██████░░░░░░  HTML/CSS/Tailwind CSS
+Web Dev        █████░░░░░░░  41% [HTML/CSS/Tailwind CSS]
 Python         █████████░░░  30% (On Hold)
 Django         ██░░░░░░░░░░  14% (On Hold)
 Docker         ░░░░░░░░░░░░  Soon
