@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Santosh Shrestha
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Enthusiast" alt="Typing SVG" />
   
@@ -6,6 +7,7 @@
 </div>
 
 ## 🚀 Development Environment
+
 ```mermaid
 mindmap
   root((My Setup))
@@ -13,8 +15,9 @@ mindmap
       ZSH
       Starship
     Terminal
+      Kitty
       Alacritty
-      tmux + tmuxifier
+      tmux + tmuxifier + sessionizer
     Editor
       Neovim
         90% Proficiency
@@ -26,17 +29,19 @@ mindmap
 ```
 
 ## 💻 Tech Journey
+
 ```rust
 /// Current Status: Exploring Systems Programming
 struct TechStack {
     primary_langs: ["Rust 🦀", "C"],
-    web_stack: ["HTML", "CSS", "JavaScript(Learning)"],
-    tools: ["Git", "Docker(Soon)", "NixOS(Exploring)"],
+    web_stack: ["HTML", "CSS", "JavaScript(Soon)"],
+    tools: ["Git", "Docker(Soon)", "NixOS(On Hold)", "Nix(On Hold)"],
     editor: "Neovim + Custom Plugins",
 }
 ```
 
 ## 🎯 Current Focus
+
 <div align="center">
   
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -48,18 +53,20 @@ struct TechStack {
 ```text
 📚 Learning Progress
 ════════════════════════════════════
-Rust Book      ████████████  Completed
-C Programming  ████████░░░░  File Handling
-Web Dev        ██████░░░░░░  HTML/CSS
-Python         █████████░░░  30%
-Django         ██░░░░░░░░░░  14%
+Rust           ██████░░░░░░  49%
+C Programming  ████████░░░░  62%
+Web Dev        ██████░░░░░░  HTML/CSS/Tailwind CSS
+Python         █████████░░░  30% (On Hold)
+Django         ██░░░░░░░░░░  14% (On Hold)
 Docker         ██░░░░░░░░░░  Starting Soon
-NixOS          ███░░░░░░░░░  Exploring
+NixOS          ███░░░░░░░░░  29% (On Hold)
+Nix            █████░░░░░░░  46% (On Hold)
 ```
 
 ## ⚡ Workflow Highlights
-- **Terminal Setup**: Alacritty + Zsh + Starship + tmux
-- **Productivity**: 
+
+- **Terminal Setup**: Alacritty + Kitty + Zsh + Starship + tmux
+- **Productivity**:
   ```shell
   # Daily tmuxifier session
   tmuxifier load-session getting-rusty
@@ -68,6 +75,7 @@ NixOS          ███░░░░░░░░░  Exploring
 - **Version Control**: Git integrated into daily workflow
 
 ## 🔧 Projects & Contributions
+
 ```text
 Current Focus:
 ════════════════════════════════════
@@ -88,6 +96,7 @@ Current Focus:
 </div>
 
 ## 🤝 Connect With Me
+
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/SantoshShrestha11)
@@ -96,6 +105,7 @@ Current Focus:
 </div>
 
 ---
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+the+future+one+commit+at+a+time.;%F0%9F%A6%80+Embracing+the+Rust+journey)
@@ -107,6 +117,7 @@ Current Focus:
 </div>
 
 ## 🛠️ Development Arsenal
+
 ```mermaid
 graph TD
     A[Development Setup] --> B[Terminal]
@@ -131,10 +142,11 @@ graph TD
 ```
 
 ## 💻 Daily Driver
+
 ```lua
 -- Current Setup Configuration
 local setup = {
-    terminal = "Alacritty",
+    terminal = "Alacritty + Kitty",
     shell = "Zsh + Starship",
     editor = "Neovim",
     os = "Arch Linux + Hyprland",
@@ -149,6 +161,7 @@ local setup = {
 ```
 
 ## 🎯 Focus Areas
+
 <div align="center">
   
 ![](https://raw.githubusercontent.com/SantoshShrestha11/github-stats/master/generated/overview.svg#gh-dark-mode-only)
@@ -161,12 +174,13 @@ local setup = {
 struct LearningJourney {
     primary: ["Rust 🦀", "Systems Programming in C"],
     tools: ["Neovim Configuration", "Terminal Workflow"],
-    upcoming: ["Docker", "NixOS"],
-    web: ["HTML", "CSS", "JavaScript"],
+    upcoming: ["Docker", "JavaScript"],
+    web: ["HTML", "CSS"],
 }
 ```
 
 ## ⚡ Workflow Snapshot
+
 ```bash
 # My typical dev session
 tmux new-session -s dev
@@ -183,13 +197,14 @@ tmux new-session -s dev
 </div>
 
 ## 🔧 Tech Stack Progress
+
 ```text
 Tool Proficiency:
 ════════════════════════════════════
 Tmux        ████████████  98%
 Neovim      ██████████░░  90%
-Rust        ███████░░░░░  65%
-Git         ████████░░░░  80%
+Rust        ██████░░░░░░  49%
+Git         ███████████░  92%
 Terminal    █████████░░░  85%
 ```
 
