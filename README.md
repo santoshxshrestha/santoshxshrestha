@@ -58,7 +58,7 @@ C Programming  ████████░░░░  62%
 Web Dev        ██████░░░░░░  HTML/CSS/Tailwind CSS
 Python         █████████░░░  30% (On Hold)
 Django         ██░░░░░░░░░░  14% (On Hold)
-Docker         ██░░░░░░░░░░  Starting Soon
+Docker         ░░░░░░░░░░░░  Soon
 NixOS          ███░░░░░░░░░  29% (On Hold)
 Nix            █████░░░░░░░  46% (On Hold)
 ```
