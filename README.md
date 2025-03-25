@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Enthusiast" alt="Typing SVG" />
   
-  [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-purple?style=for-the-badge&logo=github)](https://github.com/SantoshShrestha11/dotfiles)
+  [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-purple?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha/dotfiles)
 </div>
 
 ## 🚀 Development Environment
@@ -87,11 +87,11 @@ Current Focus:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantoshShrestha11&show_icons=true&theme=aura)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshShrestha11&layout=compact&theme=aura)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantoshShrestha11&theme=aura)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshxshrestha&show_icons=true&theme=aura)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshxshrestha&layout=compact&theme=aura)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=aura)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantoshShrestha11&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -99,7 +99,7 @@ Current Focus:
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/SantoshShrestha11)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:santoshshresthasantoshshrestha@gmail.com)
 
 </div>
@@ -110,7 +110,7 @@ Current Focus:
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+the+future+one+commit+at+a+time.;%F0%9F%A6%80+Embracing+the+Rust+journey)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=SantoshShrestha11&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet)
 </div># 👋 Hi, I'm Santosh Shrestha
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Enthusiast;Rust+Developer;System+Programmer" alt="Typing SVG" />
@@ -164,8 +164,8 @@ local setup = {
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/SantoshShrestha11/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SantoshShrestha11/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/santoshxshrestha/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/santoshxshrestha/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
@@ -191,8 +191,8 @@ tmux new-session -s dev
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SantoshShrestha11&theme=tokyonight)](https://git.io/streak-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SantoshShrestha11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=tokyonight)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -210,7 +210,7 @@ Terminal    █████████░░░  85%
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=SantoshShrestha11&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet)
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Mastering+the+tools+of+the+trade;One+keystroke+at+a+time+⌨️)
 </div>
