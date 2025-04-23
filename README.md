@@ -108,6 +108,25 @@ Current Focus:
 
 ---
 
+<div style="background-color:#0f1117;color:#cdd6f4;font-family:monospace;padding:1rem;border-radius:8px;">
+<samp>
+<span style="color:#7aa2f7;">santosh@archlinux</span>:~$ neofetch <br/>
+─────────────────────────────────────────────<br/>
+<b>OS</b>: Arch Linux (Hyprland) <br/>
+<b>Shell</b>: Zsh + Starship<br/>
+<b>Editor</b>: Neovim + LazyVim Setup<br/>
+<b>Terminal</b>: Alacritty / Kitty<br/>
+<b>Browser</b>: Firefox (Vimium)<br/>
+<b>Workflow</b>: Tmux + Neo-tree + Telescope<br/>
+─────────────────────────────────────────────<br/>
+🎧 <b>Now Playing:</b> lo-fi beats to debug/study to...<br/>
+─────────────────────────────────────────────<br/>
+[INFO] System running smooth, Rust projects cooking...<br/>
+[OK] All configs managed via GNU Stow 📦<br/>
+[&gt;] Bootstrapped from scratch 🛠️<br/>
+</samp>
+</div>
+---
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Enthusiast;Rust+Developer;System+Programmer;%F0%9F%A6%80Embracing+the+Rust+journey" alt="Typing SVG" />
 </div>
