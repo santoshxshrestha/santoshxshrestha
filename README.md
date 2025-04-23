@@ -100,13 +100,9 @@ Current Focus:
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
-</br>
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:santoshshresthasantoshshrestha@gmail.com)
-</br>
 [![Discord](https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/santoshxshrestha)
-</br>
 [![Reddit](https://img.shields.io/badge/Reddit-Follow%20Me-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/santoshxshrestha)
-</br>
 
 </div>
 
