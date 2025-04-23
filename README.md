@@ -109,13 +109,7 @@ Current Focus:
 ---
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+the+future+one+commit+at+a+time.;%F0%9F%A6%80+Embracing+the+Rust+journey)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet)
-</div># 👋 Hi, I'm Santosh Shrestha
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Enthusiast;Rust+Developer;System+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Enthusiast;Rust+Developer;System+Programmer;%F0%9F%A6%80Embracing+the+Rust+journey" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Development Arsenal
