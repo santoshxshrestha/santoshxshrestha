@@ -185,13 +185,6 @@ tmux new-session -s dev
 └── cargo watch -x run  # Rust development
 ```
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=tokyonight)](https://git.io/streak-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ## 🔧 Tech Stack Progress
 
 ```text
