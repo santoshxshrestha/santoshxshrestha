@@ -1,4 +1,4 @@
-7# 👋 Hi, I'm Santosh Shrestha
+# 👋 Hi, I'm Santosh Shrestha
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Enthusiast" alt="Typing SVG" />
