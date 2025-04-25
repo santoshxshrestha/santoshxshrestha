@@ -196,9 +196,8 @@ Git         ███████████░  98%
 Terminal    ██████████░░  91%
 ```
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet)
-  
+<div align="center"> 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Mastering+the+tools+of+the+trade;One+keystroke+at+a+time+⌨️)
+
+![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet)
 </div>
