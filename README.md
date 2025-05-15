@@ -3,30 +3,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Enthusiast" alt="Typing SVG" />
   
-  [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-purple?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha/dotfiles)
+  <!-- [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-purple?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha/dotfiles) -->
 </div>
-
-## 🚀 Development Environment
-
-```mermaid
-mindmap
-  root((My Setup))
-    Shell
-      ZSH
-      Starship
-    Terminal
-      Kitty
-      Alacritty
-      tmux + tmuxifier + sessionizer
-    Editor
-      Neovim
-        90% Proficiency
-        Custom Config
-    OS
-      Arch Linux
-        Hyprland WM
-        Keyboard-Driven
-```
 
 ## 💻 Tech Journey
 
@@ -112,31 +90,6 @@ Current Focus:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Enthusiast;Rust+Developer;System+Programmer;%F0%9F%A6%80Embracing+the+Rust+journey" alt="Typing SVG" />
 </div>
 
-## 🛠️ Development Arsenal
-
-```mermaid
-graph TD
-    A[Development Setup] --> B[Terminal]
-    A --> C[Editor]
-    A --> D[Tools]
-    B --> E[Alacritty + Kitty]
-    B --> F[Zsh + Starship]
-    B --> G[Tmux + Tmuxifier + Sessionizer]
-    C --> H[Neovim]
-    H --> I[Core Plugins]
-    I --> J[Neo-tree]
-    I --> K[Telescope]
-    I --> L[vim-tmux-navigator]
-    I --> M[vim-fugitive]
-    I --> N[vim-sleuth]
-    I --> O[vim-rhubarb]
-    D --> P[LazyGit]
-    D --> Q[Git]
-    style H fill:#6A5ACD
-    style E fill:#FF6B6B
-    style F fill:#4ECDC4
-```
-
 ## 💻 Daily Driver
 
 ```lua
@@ -196,9 +149,9 @@ Git         ███████████░  98%
 Terminal    ██████████░░  91%
 ```
 
-<div align="center"> 
+<div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Mastering+the+tools+of+the+trade;One+keystroke+at+a+time+⌨️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Mastering+the+tools+of+the+trade;One+keystroke+at+a+time+⌨️)
 
 </div>
 
