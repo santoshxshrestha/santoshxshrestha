@@ -12,9 +12,9 @@
 /// Current Status: Exploring Systems Programming
 struct TechStack {
     primary_langs: ["Rust 🦀", "C"],
-    web_stack: ["HTML", "CSS", "JavaScript(Soon)"],
-    tools: ["Git", "Docker(Soon)", "NixOS(On Hold)", "Nix(On Hold)"],
-    editor: "Neovim + Custom Plugins",
+    web_stack: ["HTML", "CSS", "JavaScript"],
+    tools: ["Git", "Docker(On Hold)", "NixOS(On Hold)", "Nix(On Hold)"],
+    editor: "Neovim + Custom Plugins + Scripts in finger tips",
 }
 ```
 
