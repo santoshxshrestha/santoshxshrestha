@@ -34,7 +34,7 @@ impl TechStack {
 }
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> Current Focus
+## 🎯 Current Focus
 
 <div align="center">
 
