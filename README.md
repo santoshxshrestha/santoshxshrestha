@@ -1,155 +1,161 @@
-# 👋 Hi, I'm Santosh Shrestha
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Santosh Shrestha
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Architect" alt="Typing SVG" />
   
-  <!-- [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-purple?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha/dotfiles) -->
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
+  [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-9146FF?style=for-the-badge&logo=neovim)](https://github.com/santoshxshrestha/dotfiles)
 </div>
 
-## 💻 Tech Journey
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Journey
 
 ```rust
-/// Current Status: Exploring
-struct TechStack {
-    primary_langs: ["Rust 🦀", "C"],
-    web_stack: ["HTML", "CSS", "JavaScript"],
-    tools: ["Git", "Docker(On Hold)", "NixOS(On Hold)", "Nix(On Hold)"],
-    editor: "Neovim + Custom Plugins + Scripts in finger tips",
-    fun_langs: ["Lua", "Bash"],
-    misc_langs: ["Python(On Hold)"]
+/// Current Status: Systems Programming Enthusiast
+pub struct TechStack {
+    primary_langs: Vec<&'static str>,
+    web_stack: Vec<&'static str>,
+    tools: Vec<&'static str>,
+    editor: &'static str,
+    fun_langs: Vec<&'static str>,
+    on_hold: Vec<&'static str>,
+}
+
+impl TechStack {
+    pub fn new() -> Self {
+        Self {
+            primary_langs: vec!["Rust 🦀", "C"],
+            web_stack: vec!["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+            tools: vec!["Git", "Tmux", "Arch Linux", "Hyprland"],
+            editor: "Neovim + Custom Plugins",
+            fun_langs: vec!["Lua", "Bash"],
+            on_hold: vec!["Python", "Django", "Docker", "NixOS", "Nix"],
+        }
+    }
 }
 ```
 
-## 🎯 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" height="25" /> Current Focus
 
 <div align="center">
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-
 ![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Web Dev](https://img.shields.io/badge/Web-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ![Async Rust](https://img.shields.io/badge/async%20Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 </div>
 
-```text
+```
 📚 Learning Progress
 ════════════════════════════════════
-vanilla Rust   ████████████  99%
+Vanilla Rust   ████████████  99%
+Async Rust     ████░░░░░░░░  29%
 C Programming  ████████░░░░  62%
 Bash           ██████░░░░░░  48%
 Lua            █████░░░░░░░  39%
-Async Rust     ████░░░░░░░░  29%
-Web Dev        █████░░░░░░░  41% [HTML/CSS/Tailwind CSS]
+Web Dev        █████░░░░░░░  41%
+NixOS          ████████░░░░  82%
+Nix            ██████████░░  88%
 Python         ████░░░░░░░░  30% (On Hold)
 Django         ██░░░░░░░░░░  14% (On Hold)
 Docker         █████░░░░░░░  39% (On Hold)
-NixOS          ████████░░░░  82%
-Nix            ██████████░░  88%
 ```
 
-## 🔧 Projects & Contributions
-
-```text
-Current Focus:
-════════════════════════════════════
-🦀 Rust Projects
-📁 Dotfiles Maintenance
-🌐 Web Development Foundations
-🐧 Linux System Customization
-```
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Projects & Contributions
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshxshrestha&show_icons=true&theme=aura)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshxshrestha&layout=compact&theme=aura)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=aura)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshxshrestha&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshxshrestha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=tokyo-night&hide_border=true)](https://github.com/santoshxshrestha)
 
 </div>
 
-## 🤝 Connect With Me
+```rust
+// Current Project Focus
+enum Projects {
+    RustSystemsUtils(Vec<&'static str>),
+    NeovimCustomization(Vec<&'static str>),
+    WebDevelopment(Vec<&'static str>),
+    LinuxRicing(Vec<&'static str>),
+}
+
+let current_projects = vec![
+    Projects::RustSystemsUtils(vec!["CLI Tools", "System Monitors", "File Utilities"]),
+    Projects::NeovimCustomization(vec!["Custom Plugins", "Workflow Enhancements"]),
+    Projects::WebDevelopment(vec!["Personal Portfolio", "Front-end Practice"]),
+    Projects::LinuxRicing(vec!["Hyprland Config", "Dotfiles Optimization"]),
+];
+```
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Daily Driver
+
+```lua
+-- My Development Environment
+local setup = {
+    terminal = {
+        primary = "Alacritty",
+        secondary = "Kitty",
+        shell = "zsh + starship",
+        multiplexer = "tmux"
+    },
+    editor = {
+        primary = "Neovim",
+        plugins = {
+            "neo-tree", "telescope", "lualine",
+            "lsp-zero", "treesitter", "harpoon"
+        }
+    },
+    operating_system = {
+        distro = "Arch Linux",
+        window_manager = "Hyprland",
+        package_manager = "pacman + paru"
+    },
+    workflow = {
+        git = {"lazygit", "fugitive", "diffview"},
+        navigation = "tmux-navigator",
+        file_search = "ripgrep + fd + fzf",
+        note_taking = "markdown + obsidian"
+    }
+}
+```
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Tool Proficiency
+
+```
+Tool Mastery:
+════════════════════════════════════
+Neovim       ██████████░░  93%
+Tmux         ████████████  99%
+Git          ███████████░  98%
+Terminal     ██████████░░  91%
+Window Manager ████████████  99%
+Bash/Zsh     █████████░░░  86%
+Hyprland     ████████░░░░  78%
+```
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:santoshshresthasantoshshrestha@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/santoshxshrestha)
-[![Reddit](https://img.shields.io/badge/Reddit-Follow%20Me-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/santoshxshrestha)
+[![GitHub](https://img.shields.io/badge/GitHub-santoshxshrestha-181717?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:santoshshresthasantoshshrestha@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-santoshxshrestha-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/santoshxshrestha)
+[![Reddit](https://img.shields.io/badge/Reddit-santoshxshrestha-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/santoshxshrestha)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Enthusiast;Rust+Developer;System+Programmer;%F0%9F%A6%80Embracing+the+Rust+journey" alt="Typing SVG" />
-</div>
-
-## 💻 Daily Driver
-
-```lua
--- Current Setup Configuration
-local setup = {
-    terminal = "Alacritty + Kitty",
-    shell = "Zsh + Bash + Starship",
-    editor = "Neovim",
-    os = "Arch Linux + Hyprland",
-    workflow = {
-        navigation = "tmux-navigator",
-        file_explorer = "neo-tree",
-        fuzzy_finder = "telescope",
-        git_client = "lazygit << fugutive",
-        git_integration = {"fugitive", "rhubarb"}
-    }
-}
-```
-
-## 🎯 Focus Areas
-
-<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Maestro;Rust+Systems+Developer;%F0%9F%A6%80+Embracing+the+Rust+Journey" alt="Typing SVG" />
   
-![](https://raw.githubusercontent.com/santoshxshrestha/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/santoshxshrestha/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-
-```bash
-#Current Learning Path
-declare -A LearningJourney=(
-  [primary]="Rust 🦀 Async Rust"
-  [tools]="Neovim Configuration Terminal Workflow"
-  [upcoming]="Python (cont..) Typescript"
-  [web]="HTML CSS JavaScript"
-)
-
-```
-
-## 🔧 Tech Stack Progress
-
-```text
-Tool Proficiency:
-════════════════════════════════════
-Tmux        ████████████  99%
-Neovim      ██████████░░  93%
-Git         ███████████░  98%
-Terminal    ██████████░░  91%
-WM          ████████████  99%
-```
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Mastering+the+tools+of+the+trade;One+keystroke+at+a+time+⌨️)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet)
-
+  ![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet&style=for-the-badge)
 </div>
