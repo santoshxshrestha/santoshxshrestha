@@ -15,6 +15,7 @@ struct TechStack {
     web_stack: ["HTML", "CSS", "JavaScript"],
     tools: ["Git", "Docker(On Hold)", "NixOS(On Hold)", "Nix(On Hold)"],
     editor: "Neovim + Custom Plugins + Scripts in finger tips",
+    fun_langs: ["Lua", "Bash"],
 }
 ```
 
@@ -31,8 +32,11 @@ struct TechStack {
 ```text
 📚 Learning Progress
 ════════════════════════════════════
-Rust           █████████░░░  78%
+vanilla Rust   ████████████  99%
 C Programming  ████████░░░░  62%
+Bash           ██████░░░░░░  48%
+Lua            █████░░░░░░░  39%
+Async Rust     ████░░░░░░░░  29%
 Web Dev        █████░░░░░░░  41% [HTML/CSS/Tailwind CSS]
 Python         ████░░░░░░░░  30% (On Hold)
 Django         ██░░░░░░░░░░  14% (On Hold)
