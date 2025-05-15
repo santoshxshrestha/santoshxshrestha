@@ -115,10 +115,10 @@ local setup = {
 ```rust
 // Current Learning Path
 struct LearningJourney {
-    primary: ["Rust 🦀", "Systems Programming in C"],
+    primary: ["Rust 🦀", "Async Rust"],
     tools: ["Neovim Configuration", "Terminal Workflow"],
-    upcoming: ["Lua", "JavaScript"],
-    web: ["HTML", "CSS"],
+    upcoming: ["Python (cont..)", "Typescript"],
+    web: ["HTML", "CSS", "JavaScript"],
 }
 ```
 
