@@ -90,14 +90,14 @@ Current Focus:
 -- Current Setup Configuration
 local setup = {
     terminal = "Alacritty + Kitty",
-    shell = "Zsh + Starship",
+    shell = "Zsh + Bash + Starship",
     editor = "Neovim",
     os = "Arch Linux + Hyprland",
     workflow = {
         navigation = "tmux-navigator",
         file_explorer = "neo-tree",
         fuzzy_finder = "telescope",
-        git_client = "lazygit",
+        git_client = "lazygit << fugutive",
         git_integration = {"fugitive", "rhubarb"}
     }
 }
