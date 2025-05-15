@@ -9,7 +9,7 @@
 ## 💻 Tech Journey
 
 ```rust
-/// Current Status: Exploring Systems Programming
+/// Current Status: Exploring
 struct TechStack {
     primary_langs: ["Rust 🦀", "C"],
     web_stack: ["HTML", "CSS", "JavaScript"],
