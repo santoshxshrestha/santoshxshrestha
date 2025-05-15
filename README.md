@@ -113,8 +113,7 @@ local setup = {
 </div>
 
 ```bash
-// Current Learning Path
-# Current Learning Path
+#Current Learning Path
 declare -A LearningJourney=(
   [primary]="Rust 🦀 Async Rust"
   [tools]="Neovim Configuration Terminal Workflow"
@@ -122,11 +121,6 @@ declare -A LearningJourney=(
   [web]="HTML CSS JavaScript"
 )
 
-# Access example:
-echo "Primary: ${LearningJourney[primary]}"
-echo "Tools: ${LearningJourney[tools]}"
-echo "Upcoming: ${LearningJourney[upcoming]}"
-echo "Web: ${LearningJourney[web]}"}
 ```
 
 ## 🔧 Tech Stack Progress
