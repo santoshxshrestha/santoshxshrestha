@@ -117,16 +117,6 @@ struct LearningJourney {
 }
 ```
 
-## ⚡ Workflow Snapshot
-
-```bash
-# My typical dev session
-tmux new-session -s dev
-├── nvim src/        # Code editing with Neovim
-├── lazygit         # Git operations
-└── cargo watch -x run  # Rust development
-```
-
 ## 🔧 Tech Stack Progress
 
 ```text
