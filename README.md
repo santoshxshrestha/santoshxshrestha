@@ -16,6 +16,7 @@ struct TechStack {
     tools: ["Git", "Docker(On Hold)", "NixOS(On Hold)", "Nix(On Hold)"],
     editor: "Neovim + Custom Plugins + Scripts in finger tips",
     fun_langs: ["Lua", "Bash"],
+    misc_langs: ["Python(On Hold)"]
 }
 ```
 
