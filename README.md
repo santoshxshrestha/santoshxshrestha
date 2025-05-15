@@ -27,6 +27,12 @@ struct TechStack {
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Async Rust](https://img.shields.io/badge/async%20Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=tokio&logoColor=white)
+![Clap](https://img.shields.io/badge/Clap-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 
 </div>
 
