@@ -41,17 +41,6 @@ NixOS          ████████░░░░  82%
 Nix            ██████████░░  88%
 ```
 
-## ⚡ Workflow Highlights
-
-- **Terminal Setup**: Alacritty + Kitty + Zsh + Starship + tmux
-- **Productivity**:
-  ```shell
-  # Daily tmuxifier session
-  tmuxifier load-session getting-rusty
-  ```
-- **Browser**: Vim keybindings for keyboard-driven navigation
-- **Version Control**: Git integrated into daily workflow
-
 ## 🔧 Projects & Contributions
 
 ```text
