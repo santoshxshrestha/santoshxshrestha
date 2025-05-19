@@ -132,13 +132,13 @@ local setup = {
 ```
 Tool Mastery:
 ════════════════════════════════════
-Neovim       ██████████░░  93%
-Tmux         ████████████  99%
-Git          ███████████░  98%
-Terminal     ██████████░░  91%
+Neovim         ██████████░░  93%
+Tmux           ████████████  99%
+Git            ███████████░  98%
+Terminal       ██████████░░  91%
 Window Manager ████████████  99%
-Bash/Zsh     █████████░░░  86%
-Hyprland     ████████░░░░  78%
+Bash/Zsh       █████████░░░  86%
+Hyprland       ████████░░░░  78%
 ```
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
