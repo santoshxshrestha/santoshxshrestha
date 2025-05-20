@@ -2,12 +2,32 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Architect" alt="Typing SVG" />
-  
+
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
   [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-9146FF?style=for-the-badge&logo=neovim)](https://github.com/santoshxshrestha/dotfiles)
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Journey
+---
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Tech Journey](#tech-journey)
+- [Current Focus](#current-focus)
+- [Projects & Contributions](#projects--contributions)
+- [Daily Driver](#daily-driver)
+- [Tool Proficiency](#tool-proficiency)
+- [Connect With Me](#connect-with-me)
+
+---
+
+## About Me
+
+I am a dedicated **Rustacean in Training** and a passionate **Systems Engineer**. I love tinkering with Linux, customizing tools, and carving out efficient workflows. My journey spans multiple realms—from system programming and low-level C skills to high-performance scripting in Bash and Lua.
+
+---
+
+## Tech Journey
 
 ```rust
 /// Current Status: Systems Programming Enthusiast
@@ -34,18 +54,20 @@ impl TechStack {
 }
 ```
 
-## 🎯 Current Focus
+---
+
+## Current Focus
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Async Rust](https://img.shields.io/badge/async%20Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Async Rust](https://img.shields.io/badge/async%20Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.github.io/async-book/)
+[![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)](https://tokio.rs/)
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Web Dev](https://img.shields.io/badge/Web-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Web Dev](https://img.shields.io/badge/Web-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 
 </div>
 
@@ -65,7 +87,9 @@ Django         ██░░░░░░░░░░  14% (On Hold)
 Docker         █████░░░░░░░  39% (On Hold)
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Projects & Contributions
+---
+
+## Projects & Contributions
 
 <div align="center">
   
@@ -73,9 +97,8 @@ Docker         █████░░░░░░░  39% (On Hold)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshxshrestha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=tokyo-night&hide_border=true)](https://github.com/santoshxshrestha)
-
+  
 </div>
 
 ```rust
@@ -95,7 +118,9 @@ let current_projects = vec![
 ];
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Daily Driver
+---
+
+## Daily Driver
 
 ```lua
 -- My Development Environment
@@ -127,7 +152,9 @@ local setup = {
 }
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Tool Proficiency
+---
+
+## Tool Proficiency
 
 ```
 Tool Mastery:
@@ -141,7 +168,9 @@ Bash/Zsh       █████████░░░  86%
 Hyprland       ████████░░░░  78%
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
+---
+
+## Connect With Me
 
 <div align="center">
   
