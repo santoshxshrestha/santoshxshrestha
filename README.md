@@ -3,11 +3,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Architect" alt="Typing SVG" />
 
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
-  [![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-9146FF?style=for-the-badge&logo=neovim)](https://github.com/santoshxshrestha/dotfiles)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-9146FF?style=for-the-badge&logo=neovim)](https://github.com/santoshxshrestha/dotfiles)
+
 </div>
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/line.gif"/>
 
 ## Table of Contents
 
@@ -61,7 +62,7 @@ impl TechStack {
 <div align="center">
 
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![Async Rust](https://img.shields.io/badge/async%20Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.github.io/async-book/)
 [![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)](https://tokio.rs/)
 
@@ -98,7 +99,7 @@ Docker         █████░░░░░░░  39% (On Hold)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=tokyo-night&hide_border=true)](https://github.com/santoshxshrestha)
-  
+
 </div>
 
 ```rust
