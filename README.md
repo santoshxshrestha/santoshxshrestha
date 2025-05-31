@@ -8,9 +8,7 @@
 
 </div>
 
-
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
-
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/sword.gif" width="100%" />
 
 ## Table of Contents
 
@@ -22,13 +20,13 @@
 - [Tool Proficiency](#tool-proficiency)
 - [Connect With Me](#connect-with-me)
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## About Me
 
 I am a dedicated **Rustacean in Training** and a passionate **Systems Engineer**. I love tinkering with Linux, customizing tools, and carving out efficient workflows. My journey spans multiple realms—from system programming and low-level C skills to high-performance scripting in Bash and Lua.
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## Tech Journey
 
@@ -57,7 +55,7 @@ impl TechStack {
 }
 ```
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## Current Focus
 
@@ -90,7 +88,7 @@ Django         ██░░░░░░░░░░  14% (On Hold)
 Docker         █████░░░░░░░  39% (On Hold)
 ```
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## Projects & Contributions
 
@@ -121,7 +119,7 @@ let current_projects = vec![
 ];
 ```
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## Daily Driver
 
@@ -155,7 +153,7 @@ local setup = {
 }
 ```
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## Tool Proficiency
 
@@ -171,7 +169,7 @@ Bash/Zsh       █████████░░░  86%
 Hyprland       ████████░░░░  78%
 ```
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## Connect With Me
 
@@ -184,7 +182,7 @@ Hyprland       ████████░░░░  78%
 
 </div>
 
----
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Maestro;Rust+Systems+Developer;%F0%9F%A6%80+Embracing+the+Rust+Journey" alt="Typing SVG" />
