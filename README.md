@@ -8,7 +8,9 @@
 
 </div>
 
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/line.gif"/>
+
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
+
 
 ## Table of Contents
 
