@@ -23,8 +23,11 @@
 <img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## About Me
+I'm an emerging systems developer with a strong interest in how things work under the hood. I enjoy building CLI tools in Rust, scripting in Bash, and shaping efficient workflows through a fully customized Linux environment.
 
-I am a dedicated **Rustacean in Training** and a passionate **Systems Engineer**. I love tinkering with Linux, customizing tools, and carving out efficient workflows. My journey spans multiple realms—from system programming and low-level C skills to high-performance scripting in Bash and Lua.
+Currently pursuing a BSc in CSIT, I spend much of my time learning through hands-on experimentation—configuring Arch Linux with Hyprland, maintaining a minimal yet powerful setup with Neovim, Zsh, and tmux, and managing my dotfiles using GNU Stow. I focus on tools and systems that enhance clarity, speed, and control.
+
+You can follow my projects, experiments, and journey at github.com/santoshxshrestha.
 
 <img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
