@@ -2,94 +2,17 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Rustacean+in+Training;Linux+Power+User;Vim+Ninja;Systems+Engineer;Command+Line+Architect" alt="Typing SVG" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/santoshxshrestha)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-Check%20My%20Setup-9146FF?style=for-the-badge&logo=neovim)](https://github.com/santoshxshrestha/dotfiles)
-
 </div>
-
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/sword.gif" width="100%" />
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [Tech Journey](#tech-journey)
-- [Current Focus](#current-focus)
-- [Projects & Contributions](#projects--contributions)
-- [Daily Driver](#daily-driver)
-- [Tool Proficiency](#tool-proficiency)
-- [Connect With Me](#connect-with-me)
-
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 ## About Me
+
 I'm an emerging systems developer with a strong interest in how things work under the hood. I enjoy building CLI tools in Rust, scripting in Bash, and shaping efficient workflows through a fully customized Linux environment.
 
-Currently pursuing a BSc in CSIT, I spend much of my time learning through hands-on experimentation—configuring Arch Linux with Hyprland, maintaining a minimal yet powerful setup with Neovim, Zsh, and tmux, and managing my dotfiles using GNU Stow. I focus on tools and systems that enhance clarity, speed, and control.
+Currently pursuing a BSc in CSIT, I spend much of my time learning through hands-on experimentation—configuring Arch Linux with Hyprland, maintaining a minimal yet powerful setup with Neovim, Zsh, and tmux. I focus on tools and systems that enhance clarity, speed, and control.
 
+When I'm not programming, you'll find me obsessively ricing my setup, tweaking configurations, and tinkering with my system to squeeze out every millisecond of performance. There's something deeply satisfying about crafting the perfect workflow that responds to your thoughts at the speed of light.
 You can follow my projects, experiments, and journey at github.com/santoshxshrestha.
 
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
-
-## Tech Journey
-
-```rust
-/// Current Status: Systems Programming Enthusiast
-pub struct TechStack {
-    primary_langs: Vec<&'static str>,
-    web_stack: Vec<&'static str>,
-    tools: Vec<&'static str>,
-    editor: &'static str,
-    fun_langs: Vec<&'static str>,
-    on_hold: Vec<&'static str>,
-}
-
-impl TechStack {
-    pub fn new() -> Self {
-        Self {
-            primary_langs: vec!["Rust 🦀", "C"],
-            web_stack: vec!["HTML", "CSS", "JavaScript", "Tailwind CSS"],
-            tools: vec!["Git", "Tmux", "Arch Linux", "Hyprland"],
-            editor: "Neovim + Custom Plugins",
-            fun_langs: vec!["Lua", "Bash"],
-            on_hold: vec!["Python", "Django", "Docker", "NixOS", "Nix"],
-        }
-    }
-}
-```
-
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
-
-## Current Focus
-
-<div align="center">
-
-[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
-[![Async Rust](https://img.shields.io/badge/async%20Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.github.io/async-book/)
-[![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)](https://tokio.rs/)
-
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-[![Web Dev](https://img.shields.io/badge/Web-%23404d59.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-
-</div>
-
-```
-📚 Learning Progress
-════════════════════════════════════
-Vanilla Rust   ████████████  99%
-Async Rust     ████░░░░░░░░  29%
-C Programming  ████████░░░░  62%
-Bash           ██████░░░░░░  48%
-Lua            █████░░░░░░░  39%
-Web Dev        █████░░░░░░░  41%
-NixOS          ████████░░░░  82%
-Nix            ██████████░░  88%
-Python         ████░░░░░░░░  30% (On Hold)
-Django         ██░░░░░░░░░░  14% (On Hold)
-Docker         █████░░░░░░░  39% (On Hold)
-```
 
 <img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
@@ -99,78 +22,10 @@ Docker         █████░░░░░░░  39% (On Hold)
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshxshrestha&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshxshrestha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=tokyo-night&hide_border=true)](https://github.com/santoshxshrestha)
 
 </div>
-
-```rust
-// Current Project Focus
-enum Projects {
-    RustSystemsUtils(Vec<&'static str>),
-    NeovimCustomization(Vec<&'static str>),
-    WebDevelopment(Vec<&'static str>),
-    LinuxRicing(Vec<&'static str>),
-}
-
-let current_projects = vec![
-    Projects::RustSystemsUtils(vec!["CLI Tools", "System Monitors", "File Utilities"]),
-    Projects::NeovimCustomization(vec!["Custom Plugins", "Workflow Enhancements"]),
-    Projects::WebDevelopment(vec!["Personal Portfolio", "Front-end Practice"]),
-    Projects::LinuxRicing(vec!["Hyprland Config", "Dotfiles Optimization"]),
-];
-```
-
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
-
-## Daily Driver
-
-```lua
--- My Development Environment
-local setup = {
-    terminal = {
-        primary = "Alacritty",
-        secondary = "Kitty",
-        shell = "zsh + starship",
-        multiplexer = "tmux"
-    },
-    editor = {
-        primary = "Neovim",
-        plugins = {
-            "neo-tree", "telescope", "lualine",
-            "lsp-zero", "treesitter", "harpoon"
-        }
-    },
-    operating_system = {
-        distro = "Arch Linux",
-        window_manager = "Hyprland",
-        package_manager = "pacman + paru"
-    },
-    workflow = {
-        git = {"lazygit", "fugitive", "diffview"},
-        navigation = "tmux-navigator",
-        file_search = "ripgrep + fd + fzf",
-        note_taking = "markdown + obsidian"
-    }
-}
-```
-
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
-
-## Tool Proficiency
-
-```
-Tool Mastery:
-════════════════════════════════════
-Neovim         ██████████░░  93%
-Tmux           ████████████  99%
-Git            ███████████░  98%
-Terminal       ██████████░░  91%
-Window Manager ████████████  99%
-Bash/Zsh       █████████░░░  86%
-Hyprland       ████████░░░░  78%
-```
 
 <img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
@@ -188,7 +43,7 @@ Hyprland       ████████░░░░  78%
 <img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Maestro;Rust+Systems+Developer;%F0%9F%A6%80+Embracing+the+Rust+Journey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Maestro;Rust+Systems+Developer;🦀+Embracing+the+Rust+Journey" alt="Typing SVG" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username=santoshxshrestha&color=blueviolet&style=for-the-badge)
 </div>
