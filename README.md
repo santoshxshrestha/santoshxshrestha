@@ -8,11 +8,10 @@
 
 I'm an emerging systems developer with a strong interest in how things work under the hood. I enjoy building CLI tools in Rust, scripting in Bash, and shaping efficient workflows through a fully customized Linux environment.
 
-Currently pursuing a BSc in CSIT, I spend much of my time learning through hands-on experimentation—configuring Arch Linux with Hyprland, maintaining a minimal yet powerful setup with Neovim, Zsh, and tmux. I focus on tools and systems that enhance clarity, speed, and control.
+Currently pursuing a BSc in CSIT, I spend much of my time learning through hands-on experimentation—configuring Linux environment with Hyprland, maintaining a minimal yet powerful setup with Neovim, Zsh, and tmux. I focus on tools and systems that enhance clarity, speed, and control.
 
 When I'm not programming, you'll find me obsessively ricing my setup, tweaking configurations, and tinkering with my system to squeeze out every millisecond of performance. There's something deeply satisfying about crafting the perfect workflow that responds to your thoughts at the speed of light.
 You can follow my projects, experiments, and journey at github.com/santoshxshrestha.
-
 
 <img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
 
@@ -42,6 +41,6 @@ You can follow my projects, experiments, and journey at github.com/santoshxshres
    *Discord* > santoshxshrestha <br/>
    *Github* > well <br/>
    *Mail* > santoshxshrestha [at] gmail.com <br/>
-   *Site* > https://santoshxshrestha.onrender.com <br/>
+   *Site* > https://santoshxshrestha.github.io <br/>
    *Reddit* > santoshxshrestha <br/>
 </details>
