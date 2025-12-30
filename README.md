@@ -13,7 +13,7 @@ Currently pursuing a BSc in CSIT, I spend much of my time learning through hands
 When I'm not programming, you'll find me obsessively ricing my setup, tweaking configurations, and tinkering with my system to squeeze out every millisecond of performance. There's something deeply satisfying about crafting the perfect workflow that responds to your thoughts at the speed of light.
 You can follow my projects, experiments, and journey at github.com/santoshxshrestha.
 
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/.github/assets/line.gif" width="100%" />
 
 ## Projects & Contributions
 
@@ -26,7 +26,7 @@ You can follow my projects, experiments, and journey at github.com/santoshxshres
 
 </div>
 
-<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/line.gif" width="100%" />
+<img src="https://github.com/santoshxshrestha/santoshxshrestha/raw/main/.github/assets/line.gif" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Neovim+Power+User;Terminal+Workflow+Maestro;Rust+Systems+Developer;🦀+Embracing+the+Rust+Journey" alt="Typing SVG" />
@@ -41,6 +41,6 @@ You can follow my projects, experiments, and journey at github.com/santoshxshres
    *Discord* > santoshxshrestha <br/>
    *Github* > well <br/>
    *Mail* > santoshxshrestha [at] gmail.com <br/>
-   *Site* > https://santoshxshrestha.github.io <br/>
+   *Site* > https://santoshxshrestha.tech <br/>
    *Reddit* > santoshxshrestha <br/>
 </details>
