@@ -15,9 +15,12 @@ You can follow my projects, experiments, and journey at github.com/santoshxshres
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santoshxshrestha&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshxshrestha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santoshxshrestha&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santoshxshrestha?cardType=github&theme=tokyonight&preferLogin=false)](https://github.com/santoshxshrestha) 
+
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=santoshxshrestha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santoshxshrestha&theme=tokyonight&hide_border=true)](https://github.com/santoshxshrestha) 
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santoshxshrestha&theme=tokyo-night&hide_border=true)](https://github.com/santoshxshrestha)
 
 </div>
