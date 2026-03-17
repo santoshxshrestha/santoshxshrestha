@@ -18,17 +18,12 @@ You can follow my projects, experiments, and journey at github.com/vimlinuz.
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vimlinuz?cardType=level&theme=tokyonight&fontFamily=Milonga&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vimlinuz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/vimlinuz) [![GitHub Streak](https://streak-stats.demolab.com/?user=vimlinuz&theme=tokyonight&hide_border=true)](https://github.com/vimlinuz)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vimlinuz&theme=tokyo-night&hide_border=true)](https://github.com/vimlinuz)
-
 </div>
 
 <img src="https://github.com/vimlinuz/vimlinuz/raw/main/.github/assets/line.gif" width="100%" />
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vimlinuz&style=flat-square&color=grey)
-
+  <img src="https://count.getloli.com/@vimlinuz?name=vimlinuz&theme=random&padding=10&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </div>
 
 <details>
